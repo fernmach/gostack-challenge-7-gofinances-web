@@ -89,7 +89,7 @@ Execute o back end da aplicação criado no [Desafio 06: Banco de dados e upload
 3. Inicialize o back end
 
     ```bash
-    yarn dev
+    yarn dev:server
     ```
 
 ## Instalação
