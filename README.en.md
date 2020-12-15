@@ -91,7 +91,7 @@ Clone and execute the back end application created on [Challenge 06: Database an
 3. Start the back end
 
     ```bash
-    yarn dev
+    yarn dev:server
     ```
 
 ## Installation
